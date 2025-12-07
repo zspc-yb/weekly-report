@@ -5,7 +5,7 @@
 ## 2024年周报列表
 
 - [2025年第48周周报](weekly-reports/20251130.html)
-- [2025年第49周周报](weekly-reports/20251207.html)
+- [2025年第49周周报](weekly-reports/20251207.md)
 
 ---
 
