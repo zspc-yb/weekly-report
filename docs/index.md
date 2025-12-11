@@ -6,6 +6,7 @@
 
 - [2025年第48周周报](weekly-reports/20251130.md)
 - [2025年第49周周报](weekly-reports/20251207.md)
+- [2025年第50周周报](weekly-reports/20251214.md)
 
 ---
 
