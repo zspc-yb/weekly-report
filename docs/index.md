@@ -15,6 +15,7 @@
 - [2026年第1周周报](weekly-reports/20260104.md)
 - [2026年第2周周报](weekly-reports/20260111.md)
 - [2026年第3周周报](weekly-reports/20260118.md)
+- [2026年第4周周报](weekly-reports/20260125.md)
 
 ---
 
